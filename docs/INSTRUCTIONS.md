@@ -17,7 +17,7 @@ Het frontend vakgebied verandert voortdurend.
 Een goede frontender blijft op de hoogte van internationale ontwikkelingen en trends op het gebied van technologie, digitaal- en interactie ontwerp. 
 Hierom worden Bij FDND elke sprint gastsprekers uitgenodigd tijdens de We ♥ Web sessies. 
 
-Houd in de Wiki je aantekeningen bij van We Love Web presentaties. 
+Houd in de Wiki je aantekeningen bij van de We Love Web presentaties. 
 
 ## Criteria
 
