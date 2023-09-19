@@ -1,11 +1,11 @@
 
 # We ♥ Web
 
-Een blog voor het bijhouden van de We ♥ Web presentaties en workshops. 
+Een plek voor het bijhouden van aantekeningen van de We ♥ Web presentaties en workshops. 
 
 ## Context
 
-Deze leertaak hoort bij alle semesters. 
+Deze leertaak hoort bij semester 1 - The Static Web. 
 
 ## Doel van deze opdracht
 
@@ -27,14 +27,6 @@ Deze leertaak hoort bij het gedragscriterium van _Lerend Vermogen_:
 Semester 1
 - Je benoemt behandelde internationale ontwikkelingen in het vakgebied.
 
-Semester 2
-- Je volgt aangeboden internationale ontwikkelingen in het vakgebied.
-
-Semester 3
-- Je volgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling.
-
-Semester 4
-- Je blijft op de hoogte van internationale ontwikkelingen in het vakgebied, omarmt verandering en maakt zelfstandig keuzes over eigen ontwikkeling.
           
 
 
